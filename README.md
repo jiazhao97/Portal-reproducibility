@@ -1,4 +1,6 @@
 # Portal-reproducibility
+[![DOI](https://zenodo.org/badge/442703897.svg)](https://zenodo.org/badge/latestdoi/442703897)
+
 Codes for reproducing the experiments of the paper "Adversarial domain translation networks for fast and accurate integration of large-scale atlas-level single-cell datasets". [Portal package](https://github.com/YangLabHKUST/Portal).
 
 + [Integration of mouse spleen datasets](https://htmlpreview.github.io/?https://github.com/jiazhao97/Portal-reproducibility/blob/main/Reproduce-Spleen.html) (we reproduce the result of performance metrics in this notebook as an example). [Benchmarking](https://htmlpreview.github.io/?https://github.com/jiazhao97/Portal-reproducibility/blob/main/Benchmarking-Spleen.html).  
